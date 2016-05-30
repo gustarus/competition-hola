@@ -1,5 +1,5 @@
 # Hola JS Challenge Spring 2016: Word Classifier
-This package contains my decision for this contest.
+This package contains my decision for [this contest](https://github.com/hola/challenge_word_classifier).
 
 ## Description
 I use webpack assets bundler for assets building. Also I use filters logic, for example, word length filter or apostrophe filter.

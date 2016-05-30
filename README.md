@@ -57,6 +57,6 @@ npm run test
  ```
 
 ## Copyrights
-Kondratenko Pavel
-Linkedin: https://ru.linkedin.com/in/kondratenkopa
+Kondratenko Pavel  
+Linkedin: https://ru.linkedin.com/in/kondratenkopa  
 Contact with me: gate@webulla.ru
